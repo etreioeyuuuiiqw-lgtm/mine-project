@@ -1,2 +1,2 @@
 # Mine-project
-this is my personal project where i a exploring and working on various idea 
+this is my personal project where im exploring and working on various idea 
